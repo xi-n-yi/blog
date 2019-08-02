@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyi Zhang / HOME"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Xinyi Zhang"
 description              : &description "personal description"
