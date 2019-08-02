@@ -1,6 +1,6 @@
 ---
 title: "How to prepare for Tableau Interviews"
-excerpt: "Tips on Tableau Interviews<br/><p align="center"><img src='/mysite/portfolio/160119.jpg'></p>"
+excerpt: "Tips on Tableau Interviews<br/><img src='/mysite/portfolio/160119.jpg', align="center">"
 collection: portfolio
 ---
 For Tableau interviews, it is needless to say that you should have a good knowledge of Tableau and how to create visualizations in Tableau.<br/>
