@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinyi Zhang"
-  avatar           : "profile.png"
+  avatar           : "https://xi-n-yi.github.io/mysite/files/xi-n-yi_img.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Boston"
   employer         :
