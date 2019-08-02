@@ -14,7 +14,7 @@ name                     : &name "Xinyi Zhang"
 description              : &description "personal description"
 url                      : https://xi-n-yi.github.io/blog/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xiandyi/xi_n_yi.github.io"
+repository               : "xi-n-yi/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
