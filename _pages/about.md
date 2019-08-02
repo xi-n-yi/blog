@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="https://xi-n-yi.github.io/mysite/files//my_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 * Sophisticated research associate in Materials Science, having worked on semiconductors, carbon, energy storage systems, and developing research instruments 
 * 3 years of startup experience in a cross-functional organization with deep engagement in marketing analysis and client interaction 
 * Skilled at digging into data, paying attention to details, extracting in-depth information, and telling a compelling story 
