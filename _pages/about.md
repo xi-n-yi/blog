@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://mysite/files/xi-n-yi_img.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://xi-n-yi.github.io/mysite/files/xi-n-yi_img.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * Sophisticated research associate in Materials Science, having worked on semiconductors, carbon, energy storage systems, and developing research instruments 
