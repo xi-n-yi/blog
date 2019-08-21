@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Xinyi Zhang"
   avatar           : "https://xi-n-yi.github.io/mysite/files/xi-n-yi_img.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D in Materials Science, seeking a transition into Data Analytics"
   location         : "Boston"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "xzboston2016@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Xinyi_Zhang8" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/x-y-zhang"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
