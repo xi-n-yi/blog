@@ -21,7 +21,7 @@ redirect_from:
 <li>
 <p style="text-align:justify"> Skilled at digging into data, paying attention to details, extracting in-depth information, and telling a compelling story </p></li>
 <li>
-<p style="text-align:justify"> Strong proficiency in Matlab, Python, Microsoft Excel/PowerPoint/Word, and Photoshop</p></li>
+<p style="text-align:justify"> Strong proficiency in Matlab, Python, Microsoft Excel /PowerPoint /Word, and Photoshop</p></li>
 <li>
 <p style="text-align:justify"> Proficiency in Tableau and Qlik (back-end/front-end)</p></li>
 <li>
