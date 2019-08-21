@@ -20,7 +20,7 @@ redirect_from:
 &#8226 Proficiency in Tableau and Qlik (back-end/front-end development)<Br>
 &#8226 Positive, steadfast and self-motivated individual contributor; a fast learner, committed to delivering quality work that exceeds expectations<Br>
 <Br>
-<i>I pursued my Ph.D in Germany, and then joined a team in the Chinese Academy of Science, transformed my post-doctoral achievements, became the technical director of the startup company, Monta Vista Scientific Inc.(MVSI). 2 years ago, I moved to Boston, working remotely, and became a mom. I will be finishing most of my work in MVSI very soon, and moving on to pursue a bright new career as a data scientist. I am looking forward to such a transformation.</i>
+<i>I pursued my Ph.D in Germany, and then joined a team in the Chinese Academy of Science, transformed my post-doctoral achievements, became the technical director of the startup company, Monta Vista Scientific Inc.(MVSI). 2 years ago, I moved to Boston, working remotely, and became a mom. I will be finishing most of my work in MVSI very soon, and moving on to pursue a bright new career as a data scientist. I am looking forward to the transformation.</i>
 
 </p>
 
