@@ -14,12 +14,12 @@ redirect_from:
 
 <ul>
 <p style="text-align:justify">
-<li> Ph.D. in Materials Science, seeking a transition into Data Analytics </li>
+<li> <p style="text-align:justify">Ph.D. in Materials Science, seeking a transition into Data Analytics </p></li>
 <li> Domain knowledge includes: semiconductors, carbon materials, energy storage devices, and developing research instruments<Br></li>
 <li> 3 years of startup experience in a cross-functional organization with deep engagement in marketing analysis and client interaction <Br></li>
 <li> Skilled at digging into data, paying attention to details, extracting in-depth information, and telling a compelling story <Br></li>
 <li> Strong proficiency in Matlab, Python, Microsoft Excel/PowerPoint/Word, and Photoshop<Br></li>
-<li> Proficiency in Tableau and Qlik (back-end/front-end development)<Br></li>
+<li> Proficiency in Tableau and Qlik (back-end/front-end)<Br></li>
 <li> Positive, steadfast and self-motivated individual contributor; a fast learner, committed to delivering quality work that exceeds expectations<Br></li>
 </p>
 </ul>
