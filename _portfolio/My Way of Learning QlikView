@@ -12,3 +12,5 @@ collection: portfolio
 <p style="text-align:justify">But, later I was told by an expert in this field that being able to make a user-friendly dashboard is not enough, and biulding a data model is equally important and time-consuming. Immediately I start off on this topic, by reading the help-file of QlikView, where there is a whole section of "Introduction to loading data", followed by reading a number of blog posters written by Qlik people.</p>
 
 <p style="text-align:justify">After several days of effort, I ended up with a mind map of a step-by-step guide of how to build a data model from scrach, shown below. </p>
+
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:525px; height:525px;" src="https://www.processon.com/embed/mind/5d56e958e4b04e664f2766bf"></iframe>
