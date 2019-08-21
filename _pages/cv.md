@@ -19,7 +19,7 @@ Work experience
   
 Skills
 ======
-* Python, Microsoft Excel/PowerPoint/Word/Access, Tableau, Qlikview (Data model development)
+* Python, Microsoft Excel/PowerPoint/Word/Access, [Tableau](https://xi-n-yi.github.io/mysite/portfolio/Tableau%20Dashboard%20Project%20-%20SuperStore%20Sales/), [Qlikview](https://xi-n-yi.github.io/mysite/portfolio/My%20Way%20of%20Learning%20QlikView/)
 * Matlab, Solidworks, Photoshop
 
 Education
@@ -30,8 +30,8 @@ Education
 
 Professional Development
 ======
-Machine Learning, Coursera MOOC by Andrew Ng: 6/2019
-Data visualization with Tableau Specialization, Coursera MOOC by University of Califonia, Davis:	8/2019
+* Machine Learning, Coursera MOOC by Andrew Ng: 6/2019
+* Data visualization with Tableau Specialization, Coursera MOOC by University of Califonia, Davis:	8/2019
 
 
 
