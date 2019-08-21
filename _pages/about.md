@@ -12,7 +12,9 @@ redirect_from:
   <img src="https://xi-n-yi.github.io/mysite/files/xi-n-yi_img.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 <p style="text-align:justify">
-&#8226 Ph.D. in Materials Science, seeking a transition into Data Analytics <Br>
+<ul>
+<li> Ph.D. in Materials Science, seeking a transition into Data Analytics <Br></li>
+</ul>
 &#8226 Domain knowledge includes: semiconductors, carbon materials (Graphite, Graphene, DLC, Diamond), energy storage devices (L-S batteries, LIB), and developing research instruments (in-situ TEM/SEM) <Br>
 &#8226 3 years of startup experience in a cross-functional organization with deep engagement in marketing analysis and client interaction <Br>
 &#8226 Skilled at digging into data, paying attention to details, extracting in-depth information, and telling a compelling story <Br>
