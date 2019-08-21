@@ -3,8 +3,7 @@ title: "My Way of Learning QlikView"
 excerpt: "Learning by doing + Help-file reading<br/><img src='/mysite/portfolio/My%20Way%20of%20Learning%20QlikView.gif' width='20%'>"
 collection: portfolio
 ---
-<p style="text-align:justify">Learning-by-doing is of course a great form of learning, especially for practical skills. In order to learn QlikView, I started by making a dashboard myself, exploring as many features in QlikView as I can: I wrote codes for chart titles, chart colors, expressions; I tried to use the object of slider for date/time by aligning it to date axis of the line chart (this object is not commonly used in dashboards, however, I think in this way, it increases the effectiveness of date selection. </p>
-
+<p style="text-align:justify">Learning-by-doing is of course a great form of learning, especially for practical skills.<br> In order to learn QlikView, I started by making a dashboard myself, exploring as many features in QlikView as I can: I wrote codes for chart titles, chart colors, expressions; I tried to use the object of slider for date/time by aligning it to date axis of the line chart (this object is not commonly used in dashboards, however, I think in this way, it increases the effectiveness of date selection. </p>
 
 <p align="center">
   <img src="https://xi-n-yi.github.io/mysite/portfolio/My%20Way%20of%20Learning%20QlikView.gif?raw=true"> 
@@ -13,7 +12,7 @@ collection: portfolio
 
 
 
-<p style="text-align:justify">Here I am aiming at (1) make use of as many features in Tableau as possible to build a dashboard, and (2) eventually, tell a story from the dataset. </p>
+<p style="text-align:justify">But, later I was told by an expert in this field that making a user-friendly dashboard is not enough, and biulding a data model is equally important and time-consuming. Immediately I start off on this topic, by reading the help-file of QlikView, where there is a whole section of "Introduction to loading data".</p>
 
 <p style="text-align:justify">This is a dataset of the sales of a superstore, who has been offering discounts to its customers. Obviously, these discounts boosted sales, but caused somehow losses. </p>
   
