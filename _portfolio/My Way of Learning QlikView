@@ -1,8 +1,14 @@
 ---
 title: "My Way of Learning QlikView"
-excerpt: "Learning by doing + Help-file reading<br/><img src='/mysite/portfolio/Superstore%20sales-tableau%20snapshot.jpg' width='20%'>"
+excerpt: "Learning by doing + Help-file reading<br/><img src='/mysite/portfolio/My%20Way%20of%20Learning%20QlikView.gif' width='20%'>"
 collection: portfolio
 ---
+<p align="center">
+  <img src="https://xi-n-yi.github.io/mysite/portfolio/My%20Way%20of%20Learning%20QlikView.gif?raw=true"> 
+</p>
+
+
+
 <p style="text-align:justify">This project evaluates the Sample–Superstore dataset that comes with Tableau. </p>
 
 <p style="text-align:justify">Here I am aiming at (1) make use of as many features in Tableau as possible to build a dashboard, and (2) eventually, tell a story from the dataset. </p>
