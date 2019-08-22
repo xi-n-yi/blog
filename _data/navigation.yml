@@ -11,3 +11,12 @@ main:
     
   - title: "Blog"
     url: /year-archive/
+
+  - title: "SiteMap"
+    url: /sitemap/
+    
+  - title: "Teaching"
+    url: /teaching/
+    
+  - talk: "Talk"
+    url: /talks/
