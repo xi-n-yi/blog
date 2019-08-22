@@ -10,13 +10,4 @@ main:
     url: /publications/
     
   - title: "Blog"
-    url: /year-archive/
-
-  - title: "SiteMap"
-    url: /sitemap/
-    
-  - title: "Teaching"
-    url: /teaching/
-    
-  - title: "Talk"
     url: /talks/
